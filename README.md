@@ -30,7 +30,7 @@ I'm a Software Engineer from Brazil 🇧🇷, currently working at [Sitemate](ht
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=phassis99&show_icons=true&include_all_commits=true&count_private=true&theme=nord&line_height=40" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phassis99&theme=nord&line_height=40" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phassis99&theme=nord" alt="GitHub Streak" />
 </p>
 
 ---
